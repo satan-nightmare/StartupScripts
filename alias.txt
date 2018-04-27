@@ -1,0 +1,8 @@
+# to install font
+# copy font to ~/.fonts
+# run
+alias fontrefresh='sudo fc-cache -fv'
+
+# to download audio from youtube
+alias music-dl='youtube-dl -f bestaudio'
+

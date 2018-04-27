@@ -7,7 +7,7 @@ wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-ke
 echo 'deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main' | sudo tee /etc/apt/sources.list.d/google-chrome.list
 
 # Java
-sudo add-apt-repository ppa:webupd8team/java -y
+# sudo add-apt-repository ppa:webupd8team/java -y
 
 # Adapta theme
 sudo apt-add-repository ppa:tista/adapta -y

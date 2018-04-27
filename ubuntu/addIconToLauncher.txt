@@ -1,0 +1,14 @@
+// create file:
+ ~/.local/share/applications/idea.desktop
+
+// add the following
+
+[Desktop Entry]
+Version=13.0
+Type=Application
+Terminal=false
+Icon[en_US]=/home/sumit/installations/ideaIC-2018.1.2/idea-IC-181.4668.68/bin/idea.png
+Name[en_US]=Idea
+Exec=/home/sumit/installations/ideaIC-2018.1.2/idea-IC-181.4668.68/bin/idea.sh
+Name=Idea
+Icon=/home/sumit/installations/ideaIC-2018.1.2/idea-IC-181.4668.68/bin/idea.png
